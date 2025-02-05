@@ -1,5 +1,5 @@
 import "./Intro.css";
-import photo from "../../assets/IMG_3324.jpg";
+import photo from "../../assets/IMG_3324.webp";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { IoLogoGithub } from "react-icons/io";
 
