@@ -30,8 +30,8 @@ const Intro = () => {
           </a>
           <a
             className="download-btn"
-            href={`${process.env.PUBLIC_URL}/Sanjeev_Ivatury_Resume.pdf`}
-            download="Sanjeev_Ivatury_Resume.pdf"
+            href={`${process.env.PUBLIC_URL}/Sanjeev_Ivatury_React.pdf`}
+            download="Sanjeev_Ivatury_React.pdf"
           >
             Resume
           </a>
