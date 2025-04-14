@@ -6,6 +6,8 @@ import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { SiTypescript } from "react-icons/si";
 import { FaSass } from "react-icons/fa";
+import { RiNextjsFill } from "react-icons/ri";
+import { RiTailwindCssFill } from "react-icons/ri";
 
 const Skills = () => {
   return (
@@ -22,6 +24,12 @@ const Skills = () => {
           <div className="skillsCardContent">
             <h3>Redux</h3>
             <TbBrandRedux color="orange" size={20} />
+          </div>
+        </div>
+        <div className="skillsCard">
+          <div className="skillsCardContent">
+            <h3>Next.js</h3>
+            <RiNextjsFill color="orange" size={20} />
           </div>
         </div>
         <div className="skillsCard">
@@ -46,6 +54,12 @@ const Skills = () => {
           <div className="skillsCardContent">
             <h3>CSS</h3>
             <FaCss3Alt color="orange" size={20} />
+          </div>
+        </div>
+        <div className="skillsCard">
+          <div className="skillsCardContent">
+            <h3>Tailwind CSS</h3>
+            <RiTailwindCssFill color="orange" size={20} />
           </div>
         </div>
         <div className="skillsCard">
