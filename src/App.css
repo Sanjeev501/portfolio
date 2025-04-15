@@ -4,7 +4,7 @@
 }
 
 .Card {
-  border: 1px solid rgb(204, 150, 150);
+  border: 1.5px solid #5a7b7b;
   border-radius: 10px;
   width: 300px !important;
   height: 170px !important;

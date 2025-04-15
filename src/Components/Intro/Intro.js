@@ -23,10 +23,10 @@ const Intro = () => {
         </p>
         <div className="icons">
           <a href="https://www.linkedin.com/in/sri-sai-sanjeev-ivatury-114832219/">
-            <FaLinkedinIn color={"rgb(71, 71, 71)"} />
+            <FaLinkedinIn color={"white"} />
           </a>
           <a href="https://github.com/Sanjeev501">
-            <IoLogoGithub color={"rgb(71, 71, 71)"} />
+            <IoLogoGithub color={"white"} />
           </a>
           <a
             className="download-btn"
